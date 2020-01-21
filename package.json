@@ -16,5 +16,18 @@
   "bugs": {
     "url": "https://github.com/richanynguon/googleauth/issues"
   },
-  "homepage": "https://github.com/richanynguon/googleauth#readme"
+  "homepage": "https://github.com/richanynguon/googleauth#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "bcrypt": "^3.0.7",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "helmet": "^3.21.2",
+    "jsonwebtoken": "^8.5.1",
+    "knex": "^0.20.8",
+    "pg": "^7.17.1"
+  }
 }
